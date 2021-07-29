@@ -6,9 +6,11 @@
 - 💖 What I love the most!Supernovas 🎆, Robotics 🤖, Hackathons 💻 Let's code!!😄
 
 
-[![zehor-l GitHub stats](https://github-readme-stats.vercel.app/api?username=zehor-l)](https://github.com/zehor-l/github-readme-stats)
+
+
+
 ![zehor-l GitHub stats](https://github-readme-stats.vercel.app/api?username=zehor-l&show_icons=true)
-!
+
 
 
 
