@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning combuter vision and game dev
+- 🌱 I’m currently learning computer vision and cybersecurity
 - 👯 I’m looking to collaborate on Hackathons and mainly any cool projects!
 - 💖 What I love the most!Supernovas 🎆, Robotics 🤖, Hackathons 💻 Let's code!!😄
 
