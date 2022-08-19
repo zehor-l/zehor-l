@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning machine learning and cybersecurity
-- 👯 I’m looking to collaborate on Hackathons and any cool projects!
+- 👯 I’m looking to collaborate in Hackathons and cool projects!
 - 💖 What I love the most!Supernovas 🎆, Robotics 🤖, Hackathons 💻 Let's code!!😄
 
 
