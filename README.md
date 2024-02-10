@@ -12,7 +12,7 @@
 
 
 
-![zehor-l GitHub stats](https://github-readme-stats.vercel.app/api?username=zehor-l&show_icons=true)
+
 
 
 
